@@ -13,7 +13,7 @@ login:
   username-match-exact: true
 password:
   min-length: 6
-password-max-length: 32
+  password-max-length: 32
 join:
   # When enabled, player gets a blindness effect when not logged in.
   blindness: true
