@@ -1,0 +1,22 @@
+lastAccountName: alqassam
+timestamps:
+  login: 1578216285834
+  logout: 1578220833549
+  lastteleport: 1578218361626
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: 481.13749998807907
+  y: 70.0
+  z: 352.86250001192093
+  yaw: -13.200297
+  pitch: 11.700034
+lastlocation:
+  world: world
+  x: 475.42925859797253
+  y: 63.0
+  z: 315.5095914670987
+  yaw: 304.2908
+  pitch: 11.100118
+afk: false
+money: '724.2070000000000591'

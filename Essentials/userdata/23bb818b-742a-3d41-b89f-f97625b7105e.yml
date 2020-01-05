@@ -1,0 +1,22 @@
+lastAccountName: Schroodinger
+timestamps:
+  login: 1578146060399
+  lastteleport: 1578150014044
+  logout: 1578150558441
+ipAddress: 180.244.234.168
+lastlocation:
+  world: world
+  x: 483.5651639621634
+  y: 63.0
+  z: 407.5288481870671
+  yaw: 262.13916
+  pitch: 5.7971506
+logoutlocation:
+  world: world
+  x: 502.82200124357337
+  y: 64.0
+  z: 403.22506291977913
+  yaw: -125.66915
+  pitch: 0.72659546
+afk: false
+money: '228.584000000000001'
