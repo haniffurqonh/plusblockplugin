@@ -311,11 +311,6 @@ groups:
 
   g:jobs moderator:
     permissions:
-    - jobs.command.admin.archive
-    - jobs.command.admin.quests
-    - jobs.command.admin.clearownership
-    - jobs.command.admin.stats
-    - jobs.command.admin.points
     - jobs.command.playerinfo 
     - jobs.command.editjobs 
     - jobs.command.fire 
@@ -333,3 +328,8 @@ groups:
     - jobs.command.toggle 
     - jobs.command.signupdate 
     - jobs.command.limit
+    
+  g:jobs admin:
+    permissions:
+    - jobs.*
+    - jobs.admin
