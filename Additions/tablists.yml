@@ -8,7 +8,7 @@ tablist:
   - ''
   footer:
   - ''
-  - '&eJoin our discord to follow our updates!'
+  - '&eJoin our Discord to follow our updates!'
 worlds:
   world:
     enabled: true
