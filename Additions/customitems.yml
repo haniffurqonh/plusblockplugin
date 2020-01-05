@@ -1,0 +1,61 @@
+diamond:
+  material: DIAMOND
+  amount: 1
+  displayName: '&bDiamond'
+  lore:
+  - ''
+  - '&7This is a custom Diamond'
+  - '&7Provided by the Custom Sword'
+  - ''
+  - '&d* An Additions Item'
+  unbreakable: true
+  enchantments:
+  - LUCK:5
+  - FIRE_ASPECT:2
+  itemOptions:
+  - DISABLE_DROP
+  itemFlags:
+  - HIDE_ATTRIBUTES
+  - HIDE_DESTROYS
+  - HIDE_ENCHANTS
+  - HIDE_PLACED_ON
+  - HIDE_POTION_EFFECTS
+  - HIDE_UNBREAKABLE
+firstItem:
+  material: DIAMOND_SWORD
+  amount: 1
+  data: 0
+  displayName: '&b&lCustom Sword'
+  lore:
+  - ''
+  - '&7This is a custom item'
+  - '&7Owner by: &b%player%'
+  - ''
+  - '&d* An Additions Item'
+  permission: additions.item.first
+  noPermission: '&cYou can''t use this item, sorry :('
+  cooldown: 200
+  cooldownMessage: '&cYou can only use this item ever 10 seconds. You have to wait
+    another %time%'
+  unbreakable: true
+  enchantments:
+  - DURABILITY:1
+  - KNOCKBACK:3
+  itemFlags:
+  - HIDE_ATTRIBUTES
+  - HIDE_DESTROYS
+  - HIDE_ENCHANTS
+  - HIDE_PLACED_ON
+  - HIDE_POTION_EFFECTS
+  - HIDE_UNBREAKABLE
+  itemOptions:
+  - DISABLE_INVENTORY_MOVING
+  - DISABLE_DROP
+  - DISABLE_BLOCK_BREAK
+  - DISABLE_CONSUME
+  - DISABLE_BLOCK_PLACE
+  actions:
+  - '[msg][delay=200]&7The Custom Sword item is no longer on cooldown'
+  - '[citem]diamond'
+  - '[title]&b&lDIAMOND\n&aYou have received a magical diamond :)'
+  - '[sound]ENTITY_VILLAGER_YES'

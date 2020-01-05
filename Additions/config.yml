@@ -1,0 +1,12 @@
+join:
+  joinMessage: '&7[&dServer Info&7] &a%player% joined'
+  actions:
+  - '[title]&7PlusBlock Minecraft!'
+leave:
+  leaveMessage: '&7[&dServer Info&7] &c%player% left'
+dead:
+  deathMessage: '&c%player% couldn''t hold it together anymore and died :('
+kill:
+  actions:
+  - '[title]&a&lKILL\n&7You killed &b%killed%'
+  - '[target=%killed%][title]&c&lRest In Peace\n&7You got killed &b%player%'

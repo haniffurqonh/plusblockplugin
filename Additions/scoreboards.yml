@@ -1,0 +1,38 @@
+perWorld: false
+enabled: false
+removeScoreboardWhenDisabled: true
+updateInterval: 20
+scoreboard:
+  enabled: true
+  title: '&b&lTitle'
+  lines:
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '10'
+  - '11'
+  - '12'
+  - '13'
+  - '14'
+  - '15'
+worlds:
+  world:
+    enabled: true
+    title: world scoreboard
+    lines:
+    - ''
+    - ''
+    - ''
+  world_nether:
+    enabled: false
+    title: nether world scoreboard
+    lines:
+    - ''
+    - ''
+    - ''

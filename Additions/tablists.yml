@@ -1,0 +1,30 @@
+perWorld: false
+enabled: true
+updateInterval: 20
+tablist:
+  enabled: true
+  header:
+  - '&c&lPlusBlock Minecraft Server'
+  - ''
+  footer:
+  - ''
+  - '&eJoin our discord to follow our updates!'
+worlds:
+  world:
+    enabled: true
+    header:
+    - '&c&lGaagjesCraft Network Team'
+    - '&7World: &bworld'
+    - ''
+    footer:
+    - ''
+    - '&egaagjescraft.net'
+  world_nether:
+    enabled: true
+    header:
+    - '&c&lGaagjesCraft Network Team'
+    - '&7World: &bworld_nether'
+    - ''
+    footer:
+    - ''
+    - '&egaagjescraft.net'
