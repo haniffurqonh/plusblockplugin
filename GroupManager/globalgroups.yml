@@ -311,3 +311,25 @@ groups:
 
   g:jobs moderator:
     permissions:
+    -jobs.command.admin.archive
+    -jobs.command.admin.quests
+    -jobs.command.admin.clearownership
+    -jobs.command.admin.stats
+    -jobs.command.admin.points
+    -jobs.command.playerinfo 
+    -jobs.command.editjobs 
+    -jobs.command.fire 
+    -jobs.command.fireall 
+    -jobs.command.employ 
+    -jobs.command.promote 
+    -jobs.command.demote 
+    -jobs.command.grantxp 
+    -jobs.command.removexp 
+    -jobs.command.transfer 
+    -jobs.command.reload 
+    -jobs.command.give 
+    -jobs.command.boost 
+    -jobs.command.help 
+    -jobs.command.toggle 
+    -jobs.command.signupdate 
+    -jobs.command.limit
