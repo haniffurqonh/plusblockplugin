@@ -66,7 +66,7 @@
 
 # This is the text that will be put in front of all messages
 # You are allowed to put whatever you want in the prefix, but I would appreciate it if BetterSleeping is kept in the prefix
-prefix: "&6[BetterSleeping] &3"
+prefix: "&7[&dServer Info&7]"
 
 
 # The message people get when enough people are sleeping
