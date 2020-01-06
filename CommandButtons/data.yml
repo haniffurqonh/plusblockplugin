@@ -15,7 +15,7 @@
 commandbuttonsdata:
   a: cb
 claimbook:
-  location: world.629.72.363
+  location: world.631.70.331
   commands:
     console:
     - claimbook %player%
@@ -27,7 +27,7 @@ claimbook:
   - none
   cooldown: 3
 claimbuy:
-  location: world.630.72.363
+  location: world.633.70.331
   commands:
     console:
     - none
@@ -39,7 +39,7 @@ claimbuy:
   - none
   cooldown: 3
 claimshovel:
-  location: world.629.71.363
+  location: world.632.69.331
   commands:
     console:
     - give %player% golden_shovel 1

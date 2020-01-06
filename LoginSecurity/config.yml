@@ -48,3 +48,4 @@ login-message-delay: 10
 # List: http://lang.lenis0012.com/list
 # Note: Changing this setting will request info from lang.lenis0012.com!
 language: en_us
+password-max-length: 32
