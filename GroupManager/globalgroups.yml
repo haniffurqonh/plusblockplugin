@@ -275,7 +275,7 @@ groups:
 
 # Permission nodes for Jobs
 
-  g:jobs default:
+  g:jobs_default:
     permissions:
     - jobs.command.*
     - -jobs.command.admin.archive
@@ -301,7 +301,7 @@ groups:
     - -jobs.command.signupdate 
     - -jobs.command.limit
 
-  g:jobs honored:
+  g:jobs_honored:
     permissions:
     - jobs.max.4
     - jobs.vipspawner
@@ -309,7 +309,7 @@ groups:
     - jobs.maxbrewingstands.10
     - jobs.maxfurnaces.64
 
-  g:jobs moderator:
+  g:jobs_moderator:
     permissions:
     - jobs.command.playerinfo 
     - jobs.command.editjobs 
@@ -329,7 +329,13 @@ groups:
     - jobs.command.signupdate 
     - jobs.command.limit
     
-  g:jobs admin:
+  g:jobs_admin:
     permissions:
     - jobs.*
     - jobs.admin
+    
+#Permission nodes for Additions
+
+  g:additions_default:
+    permissions:
+    - additions.command.givebook

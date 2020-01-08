@@ -1,6 +1,6 @@
 # 
 # ==================
-config-version: 72
+config-version: 73
 language: en
 langutils-language: en_us
 dev-mode: false
@@ -89,6 +89,9 @@ shop:
     ticks: 42000
     cost-per-shop: 2
     ignore-unlimited: true
+  force-load-downgrade-items:
+    enable: false
+    method: 0
 blacklist:
 - Bedrock
 lockette:

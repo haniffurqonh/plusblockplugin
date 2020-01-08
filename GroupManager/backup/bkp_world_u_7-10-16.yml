@@ -1,0 +1,46 @@
+users:
+  23bb818b-742a-3d41-b89f-f97625b7105e:
+    lastname: Schroodinger
+    group: Builder
+    subgroups: []
+    permissions: []
+  2933a1d5-5683-38ab-b38a-6d95b80ec911:
+    lastname: Babarafi
+    group: Builder
+    subgroups: []
+    permissions: []
+  4c395e5b-dd32-3c3e-8c29-f373bd3d73dc:
+    lastname: ProGloves
+    group: Builder
+    subgroups: []
+    permissions: []
+  5ef3bab0-54dd-376e-9f90-2610cadff7ce:
+    lastname: Vaddyl
+    group: Builder
+    subgroups: []
+    permissions: []
+  bc3677ce-4734-31ac-81a5-e5fd904596b2:
+    lastname: SomeoneNamedSan
+    group: Builder
+    subgroups: []
+    permissions: []
+  ElgarL:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  f6229def-d4aa-3a05-8831-68c3e75adcec:
+    lastname: alqassam
+    group: Owner
+    subgroups: []
+    permissions: []
+  KHobbits:
+    group: Moderator
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms
+  snowleo:
+    group: Builder
+    subgroups: []
+    permissions:
+    - groupmanager.noofflineperms

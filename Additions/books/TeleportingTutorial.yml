@@ -1,0 +1,22 @@
+title: '&lTeleporting Tutorial'
+displayName: '&oTeleporting Tutorial'
+lore:
+- A guide for teleporting on this server.
+author: Gegen
+generation: ORIGINAL
+slot: 1
+pages:
+- |-
+  Teleporting in this server is an essentials thing to do.
+  You are allowed to teleport to &lanother player's position and warps&r.
+  Requesting other players to your position requires you to be an honored member.
+- "&lUseful commands: \n&4/warp&r Teleport to certain warp. It also shows the warp\
+  \ list. \n&4/tpa&r Teleport to another player's position. \n&4/spawn&r Teleport\
+  \ to spawn point. \n&4/jobcenter&r Teleport to job center building.\n&4/landcenter&r\
+  \ Teleport to land center building."
+- "&4/sethome&r Set your current location as your home position. \n&4/home&r Teleport\
+  \ to your home position."
+- "&lHonored member commands: \n&4/back&r Teleport to previous position (useful to\
+  \ pickup your items after death). \n&4/tpo&r Teleport another player to your position.\
+  \ \n&4/sethome <homename>&r Add another home up to 5 locations."
+- '&4/home <homename>&r Teleport to selected home position.'

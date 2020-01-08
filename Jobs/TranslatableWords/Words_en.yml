@@ -1036,7 +1036,6 @@ EntityList:
   99-IRON_GOLEM: Iron Golem
   100-HORSE: Horse
   101-RABBIT: Rabbit
-  59-RAVAGER: Ravager
   102-POLAR_BEAR: Polar Bear
   103-LLAMA: Llama
   105-PARROT: Parrot
@@ -1055,6 +1054,7 @@ EntityList:
   909-DOLPHIN: Dolphin
   914-PLAYER: Player
   918-TRADER_LLAMA: Trader Llama
+  919-RAVAGER: Ravager
 EnchantList:
   Fire protection: Fire protection
   Sharpness: Sharpness
@@ -1110,3 +1110,6 @@ ColorList:
   13-green: '&2Green'
   14-red: '&cRed'
   15-black: '&0Black'
+MythicEntityList:
+  AngrySludge: Angry Sludge
+  SkeletalKnight: Skeletal Knight

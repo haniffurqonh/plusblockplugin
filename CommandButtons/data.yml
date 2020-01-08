@@ -50,3 +50,15 @@ claimshovel:
   messages:
   - Successfully purchased golden shovel
   cooldown: 3
+tpbook:
+  location: world.641.72.363
+  commands:
+    console:
+    - none
+    player:
+    - additions givebook TeleportingTutorial
+  cost: 0.0
+  permission: none
+  messages:
+  - none
+  cooldown: 3

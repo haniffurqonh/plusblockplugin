@@ -417,6 +417,7 @@ command:
       info: Check who visited this chunk
     error:
       noexplore: No one visited this chunk
+    fullExplore: '&aThis chunk is fully explored'
     list: '&e%place%. %playername%'
   browse:
     help:

@@ -3,7 +3,7 @@ groups:
   default:
     changeDisplayName: true
     order: 119839
-    tag: '&8%player%'
+    tag: '&f%player%'
   owner:
     order: 1
     updateInterval: 5
